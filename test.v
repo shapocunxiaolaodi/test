@@ -1,5 +1,6 @@
 module design1(
-  input clk
+	input clk,
+	output clk_3div
 );
 
 endmodule;
